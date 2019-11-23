@@ -1,6 +1,8 @@
 
 # Optimization for Video Processing
 
+Paper : https://dl.acm.org/citation.cfm?id=3339326
+
 
 Optimization is the process of the action of making the best or most effective use of a situation or resource. In this scenario optimization is used to solve the issue of the high time requirement of the algorithm, software and hardware optimization was performed on the program to a point where it was able to in real-time on the hardware board used. Here, we discuss the entire procedure of the process implemented.
 ## Software Optimization
