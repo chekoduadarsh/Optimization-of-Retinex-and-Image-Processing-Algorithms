@@ -19,7 +19,7 @@ After threading each thread can be run on different core to achieve 100% CPU uti
 
 In my code I have used following type of memory model where each thread independently process each frame reducing problems like deadlock.
 
-<img src="https://raw.githubusercontent.com/chekoduadarsh/Optimization-for-Video-Processing/master/images/memory%20model.png" alt="thread memory model" style="display: block; margin: auto;" />
+<img src="https://raw.githubusercontent.com/chekoduadarsh/Optimization_of_Retinex_Algorithm/master/images/memory%20model.png" alt="thread memory model" style="display: block; margin: auto;" />
 
 
 ## Hardware Optimization
@@ -44,7 +44,7 @@ When ever we deploy a process on Heterogenous or parallel manner we need to keep
 Consider the diagram given below this is one of the simple heterogeneous computation method.
 
 
-<img src="https://raw.githubusercontent.com/chekoduadarsh/Optimization-for-Video-Processing/master/images/gpu%20model.png" alt="GPU memory model"  style="display: block; margin: auto;" />
+<img src="https://raw.githubusercontent.com/chekoduadarsh/Optimization_of_Retinex_Algorithm/master/images/gpu%20model.png" alt="GPU memory model"  style="display: block; margin: auto;" />
 
 
 # Implemented Video Processing Algorithms
