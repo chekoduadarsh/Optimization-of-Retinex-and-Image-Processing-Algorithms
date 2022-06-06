@@ -129,16 +129,13 @@ The Above algorithms are implemented on various embedded hardware boards and the
 
 
 
-## TODO
-- Implementing on more video processing algorithms
-- Implementation in Laptops (PC) and comparison 
-- Comparison Between pthreads vs thread in perfomance
-- Implementation of OpenMP 
 
 
 ### Download
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/chekoduadarsh/Optimization-for-Video-Processing/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
-### Thank you
-If you guys get any problem on this project, plz let me know.
+### Citation
+
+Majumdar, Jharna & C, Adarsh & Singh, Harshpreet & C, Rahul. (2019). Real-time performance analysis of retinex algorithm on embedded boards for robotics application. ICAICR '19: Proceedings of the Third International Conference on Advanced Informatics for Computing Research. 1-8. 10.1145/3339311.3339326. 
+
 
